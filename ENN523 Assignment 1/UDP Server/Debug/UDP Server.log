@@ -1,0 +1,10 @@
+﻿  UdpServer.c
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\udpserverclient.h(40,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\udpserverclient.h(40,16): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpServer.c(62,47): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpServer.c(62,36): warning C4024: 'recvfrom': different types for formal and actual parameter 2
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpServer.c(75,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpServer.c(17,22): warning C4101: 'UDPClient': unreferenced local variable
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\udpserverclient.h(65): warning C4715: 'captureConfig': not all control paths return a value
+UdpServer.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  UDP Server.vcxproj -> C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\ENN523 Assignment 1\Debug\UDP Server.exe

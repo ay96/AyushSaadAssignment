@@ -1,0 +1,5 @@
+# Make sure to match the format provided and don't change the variable names
+# Place this file in the server's execution directory
+
+CLIENT_IP_ADDRESS=127.0.0.1
+PORT=4700

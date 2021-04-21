@@ -1,0 +1,12 @@
+﻿  UdpClient.c
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\udpserverclient.h(40,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\udpserverclient.h(40,16): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpClient.c(58,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpClient.c(71,124): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpClient.c(71,113): warning C4024: 'sendto': different types for formal and actual parameter 6
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpClient.c(92,88): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpClient.c(92,77): warning C4024: 'sendto': different types for formal and actual parameter 6
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\UdpClient.c(27,22): warning C4101: 'randomNumber': unreferenced local variable
+C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\src\udpserverclient.h(65): warning C4715: 'captureConfig': not all control paths return a value
+UdpClient.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  UDP Client.vcxproj -> C:\Users\hp\Documents\QUT\Sem 1 2021\Advanced Network Engineering\Assignment\ENN523-main\ENN523 Assignment 1\Debug\UDP Client.exe
